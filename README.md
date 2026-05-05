@@ -1,4 +1,5 @@
-🧑‍🎨 Collaborative Whiteboard
+Collaborative_Whiteboard
+
 A real-time collaborative whiteboard application that enables multiple users to draw, write, and brainstorm together seamlessly from anywhere.
 
 🚀 Overview
