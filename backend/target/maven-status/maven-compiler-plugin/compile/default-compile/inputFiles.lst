@@ -1,0 +1,16 @@
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\service\ChatService.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\controller\ChatController.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\config\CorsConfig.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\dto\DrawEventDTO.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\repository\ChatMessageRepository.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\WhiteboardApplication.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\config\WebSocketConfig.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\service\SessionService.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\dto\SessionDTO.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\dto\ChatMessageDTO.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\controller\SessionController.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\model\ChatMessage.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\controller\ChatWebSocketController.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\model\WhiteboardSession.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\controller\WhiteboardWebSocketController.java
+C:\Users\gupta\Desktop\Collaborative_Whiteboard_18\backend\src\main\java\com\whiteboard\repository\WhiteboardSessionRepository.java
